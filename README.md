@@ -1,7 +1,7 @@
 
 # Weather App
 
-Bu projede html-css kullanarak ReactJS üzerinden nasıl Fully Responsive bir navbar hazırladım. 
+Bu projede Open Weather Map adlı sitenin API'sini kullanarak basit bir hava durumu uygulaması geliştirdim. 
 
 
 ![Sayfa ilk açıldığında boş bir Card bizi karşılamasın diye Istanbul için bir api request atılıyor](https://github.com/Erenkta/weather-app/blob/main/readme_img/page_init.jpg)
